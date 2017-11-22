@@ -1,0 +1,6 @@
+# assets image
+/assets/**/*.*
+.idea
+
+# file system
+.DS_Store
